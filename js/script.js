@@ -59,7 +59,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 
 var typed = new Typed(".multiple-text",{
-    strings: ["Frontend Developer","Youtuber"] ,
+    strings: ["เช่ารถแมคโคร","เช่ารถบด","เช่ารถเครน","เช่ารถหกล้อดั๊ม","เช่ารถเฮี้ยบ","เช่าเครื่องจักรกลก่อสร้าง","จัดหาวัสดุก่อสร้าง","ทรายถมราคาถูก"] ,
     typeSpeed: 100,
     backSpeed: 20,
     loop: true
